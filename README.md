@@ -10,8 +10,8 @@ Con experiencia en proyectos académicos y personales que integran **bases de da
 
 | Lenguaje / Herramienta | Nivel |
 |------------------------|-------|
-| ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) | Intermedio |
-| ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white) | Intermedio |
+| ![Java](https://img.shields.io/badge/-Java-orange?logo=openjdk&logoColor=white) | Intermedio |
+| ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white) | Intermedio |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Básico |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Básico |
 | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | Básico |
@@ -19,6 +19,7 @@ Con experiencia en proyectos académicos y personales que integran **bases de da
 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | Básico |
 | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | Básico |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | Básico |
+
 
 ---
 
