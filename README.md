@@ -8,15 +8,19 @@ Con experiencia en proyectos académicos y personales que integran **bases de da
 
 ## 🛠️ Habilidades Técnicas
 
-![Java](https://img.shields.io/badge/Java-Intermedio-orange?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Intermedio-512BD4?logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Básico-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico-F7DF1E?logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Básico-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Básico-4479A1?logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Básico-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Básico-1572B6?logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Básico-DD0031?logo=angular&logoColor=white)
+## 🛠️ Habilidades Técnicas
+
+| Lenguaje / Herramienta | Nivel |
+|------------------------|-------|
+| ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) | Intermedio |
+| ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white) | Intermedio |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Básico |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Básico |
+| ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | Básico |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | Básico |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | Básico |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | Básico |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | Básico |
 
 ---
 
