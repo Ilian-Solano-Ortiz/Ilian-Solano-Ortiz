@@ -8,8 +8,6 @@ Con experiencia en proyectos académicos y personales que integran **bases de da
 
 ## 🛠️ Habilidades Técnicas
 
-## 🛠️ Habilidades Técnicas
-
 | Lenguaje / Herramienta | Nivel |
 |------------------------|-------|
 | ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) | Intermedio |
