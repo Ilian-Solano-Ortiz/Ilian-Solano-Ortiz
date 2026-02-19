@@ -24,7 +24,9 @@ Con experiencia en proyectos académicos y personales que integran **bases de da
 ## 📂 Proyectos Destacados 
 - 🔹 [Sistema hojas de matrícula UP](https://github.com/Ilian-Solano-Ortiz/UnidadPedag-gica_Sistema.git) – Sistema que ayuda a los docentes de una institución a generar hojas de matrícula.
 - 🔹 [Sistema reloj marcador](https://github.com/Ilian-Solano-Ortiz/Proyecto-Automatizaci-n-Reloj-Marcador.git) – Obtiene los datos de un reloj marcador y genera automáticamente reportes en PDF para cada profesor.
-    
+
+- 👉 Para ver todos mis proyectos visita mi [Portfolio](https://github.com/Ilian-Solano-Ortiz/Portafolio-de-proyectos.git)
+
 ---
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/ilian-solano-ortiz)  
